@@ -8,7 +8,7 @@ This assumes that `python3` is linked to valid installation of python 3 and that
 
 First, clone the repository:
 
-    $ git clone https://github.com/Sahaj0312/Instawork-assigment.git
+    $ git clone https://github.com/Sahaj0312/Instawork-takeHome-assignment.git
 
 Then, install all the requirements:
 

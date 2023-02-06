@@ -24,7 +24,7 @@ And then, start the development server:
 
 # Testing
 
-This repository includes unit and functional tests (using Selenium).
+This repository includes unit and functional tests (using Selenium and latest version of chromedriver).
 
 Run the tests by executing the following command in a new terminal:
 
